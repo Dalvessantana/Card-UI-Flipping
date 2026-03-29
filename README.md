@@ -1,4 +1,4 @@
-# 📇 DevCard UI
+# 📇 DevCard UI Flipping
 
 Um cartão de perfil **3D interativo** desenvolvido com **HTML** e **CSS**, com efeito de *flip* (rotação), focado em design moderno, animações suaves e boas práticas de front-end.
 
